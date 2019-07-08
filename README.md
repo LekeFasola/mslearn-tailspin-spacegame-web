@@ -1,4 +1,6 @@
 
+[![Build Status](https://omgroupinc.visualstudio.com/DevOps_Practice/_apis/build/status/DevOps_Practice-SpaceGame-CI?branchName=master)](https://omgroupinc.visualstudio.com/DevOps_Practice/_build/latest?definitionId=63&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions Okay.  Most contributions require you to agree to a
